@@ -1,0 +1,7 @@
+main: me.phelix.prison.Prison
+version: 1.0
+name: Prison
+author: Phelix
+commands:
+  minex:
+    aliases: [mx, mine]
